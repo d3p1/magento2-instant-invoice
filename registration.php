@@ -5,6 +5,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Bina_InstantInvoice',
+    'D3p1_InstantInvoice',
     __DIR__
 );

@@ -3,14 +3,14 @@
  * @description Invoice management model
  * @author      C. M. de Picciotto <d3p1@d3p1.dev> (https://d3p1.dev/)
  */
-namespace Bina\InstantInvoice\Model;
+namespace D3p1\InstantInvoice\Model;
 
 use Magento\Framework\DB\TransactionFactory;
 use Magento\Framework\DB\Transaction;
 use Magento\Sales\Model\Order;
 use Magento\Sales\Model\Order\Invoice;
 use Magento\Sales\Model\Order\Email\Sender\InvoiceSender;
-use Bina\InstantInvoice\Api\InvoiceManagementInterface;
+use D3p1\InstantInvoice\Api\InvoiceManagementInterface;
 
 class InvoiceManagement implements InvoiceManagementInterface
 {

@@ -5,7 +5,7 @@
  * @note        Implementation to provide invoice utils that
  *              automate different invoice processes
  */
-namespace Bina\InstantInvoice\Api;
+namespace D3p1\InstantInvoice\Api;
 
 use Magento\Sales\Model\Order;
 use Magento\Sales\Model\Order\Invoice;
