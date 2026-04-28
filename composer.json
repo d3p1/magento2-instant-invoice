@@ -20,10 +20,10 @@
     },
     "autoload": {
         "files": [
-            "registration.php"
+            "src/registration.php"
         ],
         "psr-4": {
-            "D3p1\\InstantInvoice\\": ""
+            "D3p1\\InstantInvoice\\": "src"
         }
     }
 }
