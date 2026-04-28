@@ -1,6 +1,6 @@
 {
   "name": "@d3p1/module-instant-invoice",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Instant invoice",
   "private": true,
   "scripts": {

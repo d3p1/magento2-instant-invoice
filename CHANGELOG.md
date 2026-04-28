@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/d3p1/magento2-instant-invoice/compare/v1.0.0...v1.1.0) (2026-04-28)
+
+
+### Features
+
+* improve composer definition [[#1](https://github.com/d3p1/magento2-instant-invoice/issues/1)] ([c644033](https://github.com/d3p1/magento2-instant-invoice/commit/c6440335ce6273c533c7166e7f9893b26e1924d9))
+
 # 1.0.0 (2026-04-28)
 
 
