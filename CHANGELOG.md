@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/d3p1/magento2-instant-invoice/compare/v1.1.0...v1.1.1) (2026-05-05)
+
+
+### Bug Fixes
+
+* adjust coding style guidelines [[#1](https://github.com/d3p1/magento2-instant-invoice/issues/1)] ([e3cc654](https://github.com/d3p1/magento2-instant-invoice/commit/e3cc654979e9b6dfa821b6d5983f4c8f2200ccf4))
+
 # [1.1.0](https://github.com/d3p1/magento2-instant-invoice/compare/v1.0.0...v1.1.0) (2026-04-28)
 
 
